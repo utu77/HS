@@ -1,3 +1,5 @@
+// ignore_for_file: file_names, prefer_const_constructors
+
 import 'package:demo_project/Charts/CandleChart.dart';
 import 'package:demo_project/Charts/HiloOpenCloseChart.dart';
 import 'package:demo_project/Charts/LineChart.dart';
